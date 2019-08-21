@@ -1,3 +1,4 @@
+![](https://github.com/MicrohexHQ/miniscript/blob/master/U/AI/ArtBoard%20Image%20(630).jpg)
 Go to [the Miniscript website](http://bitcoin.sipa.be/miniscript/).
 
 This repository contains a C++ implementation of Miniscript and a number of
